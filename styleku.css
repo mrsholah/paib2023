@@ -63,10 +63,9 @@ body {
 }
 
 .img {
-   font-size: 20%
    color: black;
    background-color: white;
-   text-decoration-color: blue;
+   text-decoration-color: gold;
  }
 .a-1 {
   color: white;
@@ -78,7 +77,6 @@ body {
 }
 
 .foot-link {
-  font-size: 20%
   margin-top: 150%;
   background-color: white;
   clear:both;
