@@ -63,6 +63,8 @@ body {
 }
 
 .img {
+  width: 20%;
+  height: 20%;
    color: black;
    background-color: white;
    text-decoration-color: blue;
@@ -77,6 +79,8 @@ body {
 }
 
 .foot-link {
+  width: 20%;
+  height: 20%;
   margin-top: 150%;
   background-color: white;
   clear:both;
